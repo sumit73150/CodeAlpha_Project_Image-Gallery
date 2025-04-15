@@ -24,7 +24,7 @@ This is a simple and responsive **Image Gallery** website built using **HTML, CS
 
 ## 🖼️ Screenshot
 
-![Gallery Screenshot](images/screen.jpg)
+![Gallery Screenshot](images/screen.png)
 
 ## 🚀 How to Run Locally
 
